@@ -17,4 +17,4 @@ $(document).ready(function(event){
     $(".notLeapYear").text("is not a leap year.");
     return false;
   }
-});
+}
